@@ -1,17 +1,23 @@
+<h1 align="center">
+Hi, I'm Reen 👋🏼       
+</h1>
 
-# Hi, I'm Reen 👋🏼
+<div align="center">
+  I am a Back-End Engineer.
 
-I am a Back-End Engineer.
+  Cardinal RPH or Cardinal Rage Phantom is my nickname in another world. But you can call me Rayhan or Reen (レーアン)
+  
+  <br>
 
-Cardinal RPH or Cardinal Rage Phantom is my nickname in another world. But you can call me Rayhan or Reen (レーアン) 
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CardinalRPH&theme=codeSTACKr)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CardinalRPH&theme=codeSTACKr)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CardinalRPH&theme=codeSTACKr)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CardinalRPH&theme=codeSTACKr)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CardinalRPH&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CardinalRPH&theme=codeSTACKr)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CardinalRPH&theme=codeSTACKr)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CardinalRPH&theme=codeSTACKr&utcOffset=7)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CardinalRPH&theme=codeSTACKr)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CardinalRPH&theme=codeSTACKr&utcOffset=7)
+  
+</div>
 
 <!--
 **CardinalRPH/CardinalRPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
