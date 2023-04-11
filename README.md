@@ -1,4 +1,17 @@
-### Yayy
+
+# Hi, I'm Reen 👋🏼
+
+I am a Back-End Engineer.
+
+Cardinal RPH or Cardinal Rage Phantom is my nickname in another world. But you can call me Reen (レーアン) 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CardinalRPH&theme=codeSTACKr)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CardinalRPH&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CardinalRPH&theme=codeSTACKr)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CardinalRPH&theme=codeSTACKr)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CardinalRPH&theme=codeSTACKr&utcOffset=8)
 
 <!--
 **CardinalRPH/CardinalRPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
