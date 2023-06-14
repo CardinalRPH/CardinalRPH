@@ -5,7 +5,7 @@ Hi, I'm Reean 👋🏼
 <div align="center">
   I am a Back-End Engineer.
 
-  Cardinal RPH or Cardinal Rage Phantom is my nickname in another world. But you can call me Rayhan or Reen (レーアン)
+  Cardinal RPH or Cardinal Rage Phantom is my nickname in another world. But you can call me Rayhan or Reean (レーアン)
   
   <br>
 
