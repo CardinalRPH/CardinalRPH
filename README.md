@@ -12,7 +12,6 @@ Hi, I'm Reean 👋🏼
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CardinalRPH&theme=codeSTACKr)
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CardinalRPH&theme=codeSTACKr)
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CardinalRPH&theme=codeSTACKr)
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=CardinalRPH&theme=codeSTACKr)
   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=CardinalRPH&theme=codeSTACKr&utcOffset=7)
