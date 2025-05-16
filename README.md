@@ -8,7 +8,7 @@ Hi, I'm Reean 👋🏼
   Cardinal RPH or Cardinal Rage Phantom is my nickname in another world. But you can call me Rayhan or Reean (レーアン)
   
   <br>
-
+ 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=CardinalRPH&theme=codeSTACKr)
 
   ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CardinalRPH&theme=codeSTACKr)
