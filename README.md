@@ -3,7 +3,7 @@ Hi, I'm Reean 👋🏼
 </h1>
 
 <div align="center">
-  I am a Web Front-End Back-End Developer especially Javascript Language.
+  I am a Web Front-End Back-End Developer especially Node Js, Javascript and Typescript Language.
 
   Cardinal RPH or Cardinal Rage Phantom is my nickname in another world. But you can call me Rayhan or Reean (レーアン)
   
